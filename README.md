@@ -68,7 +68,7 @@ For other settings, models, and more, check out the [documentation 📕](https:/
 
 ### Test with UI
 
-You can test [browser-use with a UI repository](https://github.com/browser-use/web-ui)
+You can test [browser-use with a UI repository](https://github.com/SenthilL13/web_ui)
 
 Or simply run the gradio example:
 
